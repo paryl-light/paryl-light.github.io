@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Home",
+    "slug": "home",
+    "url": "index",
+    "layout": "home.html",
+    "meta_title": "A developers guide",
+    "meta_description": "A resource, guide, and overall helpful place for developers.",
+    "short_description": "",
+    "parent_id": "0",
+    "color": "white"
+  },
+  {
+    "id": "2",
+    "name": "Backend Resources",
+    "slug": "dev-resources-backend",
+    "url": "dev-resources-backend",
+    "layout": "page",
+    "meta_title": "Resources for backend Developers",
+    "meta_description": "Need help? Here you can find resources for (almost) all your backend development needs!",
+    "short_description": "",
+    "parent_id": "0",
+    "color": "darkblue"
+  },
+  {
+    "id": "3",
+    "name": "Frontend Resources",
+    "slug": "dev-resources-frontend",
+    "url": "dev-resources-frontend",
+    "layout": "page",
+    "meta_title": "Resources for Frontend Developers",
+    "meta_description": "Need help? Here you can find resources for (almost) all your frontend development needs!",
+    "short_description": "",
+    "parent_id": "0",
+    "color": "orange"
+  }
+]
