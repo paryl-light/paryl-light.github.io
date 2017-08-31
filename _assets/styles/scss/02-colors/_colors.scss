@@ -22,8 +22,8 @@ $link-color: $darkblue;
 $link-color-hover:darken($darkblue, 10%);
 
 // Helper classes.
-.bg-pink { background-color: $darkblue; }
-.bg-blue { background-color: $orange; }
+.bg-darkblue { background-color: $darkblue; }
+.bg-orange { background-color: $orange; }
 
-.c-pink { color: $darkblue; }
-.c-blue { color: $orange; }
+.c-darkblue { color: $darkblue; }
+.c-orange { color: $orange; }
