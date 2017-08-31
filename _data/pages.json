@@ -14,8 +14,8 @@
   {
     "id": "2",
     "name": "Backend Resources",
-    "slug": "dev-resources-backend",
-    "url": "dev-resources-backend",
+    "slug": "backend-resources",
+    "url": "backend-resources",
     "layout": "page",
     "meta_title": "Resources for backend Developers",
     "meta_description": "Need help? Here you can find resources for (almost) all your backend development needs!",
@@ -26,8 +26,8 @@
   {
     "id": "3",
     "name": "Frontend Resources",
-    "slug": "dev-resources-frontend",
-    "url": "dev-resources-frontend",
+    "slug": "frontend-resources",
+    "url": "frontend-resources",
     "layout": "page",
     "meta_title": "Resources for Frontend Developers",
     "meta_description": "Need help? Here you can find resources for (almost) all your frontend development needs!",

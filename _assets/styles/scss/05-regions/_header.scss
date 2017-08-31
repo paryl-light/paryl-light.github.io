@@ -73,7 +73,7 @@ $opacity: .9;
 		padding: 0;
 		position: relative;
 		text-indent: -9999px;
-		transition: background .25s ease 0s;
+		transition: background-color .25s ease 0s;
 		width: 45px;
 		span {
 			display: block;
@@ -119,12 +119,12 @@ $opacity: .9;
 		zoom: 1;
 		*display: inline;
 		position: relative;
-		&.nav-color-pink {
+		&.nav-color-darkblue {
 			a > .nav-item-bg:after, a > .nav-item-bg:before {
 				background-color: $darkblue;
 			}
 		}
-		&.nav-color-blue {
+		&.nav-color-orange {
 			a > .nav-item-bg:after, a > .nav-item-bg:before {
 				background-color: $orange;
 			}
