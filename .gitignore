@@ -1,0 +1,12 @@
+.sass-cache
+.jekyll-metadata
+_logs
+
+# Data
+_site
+
+# Build items
+node_modules
+_includes/css
+.htaccess
+/nbproject/

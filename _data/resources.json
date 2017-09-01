@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "url": "https://www.reddit.com/r/webdev/",
+        "name": "Web Dev",
+        "description": "A place for web development of all types.",
+        "category": "general"
+    },
+    {
+        "id": 2,
+        "url": "https://www.reddit.com/r/web_design/",
+        "name": "Web Design",
+        "description": "A place for web design to be discussed and shared.",
+        "category": "mtf"
+    },
+    {
+        "id": 3,
+        "url": "https://www.reddit.com/r/programming/",
+        "name": "Place for programming of all types!",
+        "description": "Place to find all things related to programming.",
+        "category": "ftm"
+    },
+    {
+        "id": 4,
+        "url": "https://www.reddit.com/r/javascript/",
+        "name": "Subreddit for Javascript",
+        "description": "A place to learn about all things Javascript",
+        "category": "nonbinary"
+    },
+    {
+        "id": 5,
+        "url": "https://www.reddit.com/r/mysql",
+        "name": "Subreddit for discussing MySQL",
+        "description": "A ",
+        "category": "mtf"
+    }
+]
